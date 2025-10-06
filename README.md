@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center" style="display:inline-block"><br>
+  <img height=300px width="500px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYxODVwdXRrejY0cXcyY3N1NHBkajF5bHg3bWhscGIxaHExNG9rcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNaseOEq3qHounMmLZ/giphy.gif">
+</div>
 
-<!--
-**lukvsp/lukvsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <div align = "center"> 
 
-Here are some ideas to get you started:
+### Currently Studying:
+ 
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  
+  </div>
+  <div align = "center"> 
+  
+### Main Skills:
+    
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+      
+  </div>
+  
+  <div align = "center"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/lukasvespa">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lukasvespa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasvespa&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
+
+
+<a href="https://github.com/lukvsp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lukvsp" />
+</a>
+<a href="https://github.com/lukvsp/convoychat">
+  <img height=590 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukvsp&layout=compact&langs_count=8&card_width=390" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
