@@ -21,26 +21,11 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
       
   </div>
-  
-  <div align = "center"> 
-
-<div>
-  <a href="https://github.com/lukasvespa">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lukasvespa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasvespa&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
+    <div align = "center"> 
 
 <a href="https://github.com/lukvsp/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lukvsp" />
 </a>
 <a href="https://github.com/lukvsp/convoychat">
   <img height=590 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukvsp&layout=compact&langs_count=8&card_width=390" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
