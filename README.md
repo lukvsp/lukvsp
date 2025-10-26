@@ -4,14 +4,6 @@
 
   
   <div align = "center"> 
-
-### Currently Studying:
- 
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  
-  </div>
-  <div align = "center"> 
   
 ### Main Skills:
     
